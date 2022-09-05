@@ -1,4 +1,4 @@
-package 브루트포스.체스판다시칠하기;
+package 기본.브루트포스.체스판다시칠하기;
 import java.util.Scanner;
  
 public class Main1 {

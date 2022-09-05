@@ -1,4 +1,4 @@
-package 브루트포스.블랙잭;
+package 기본.브루트포스.블랙잭;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package 정렬.좌표정렬하기;
+package 기본.정렬.좌표정렬하기;
 
 import java.util.Arrays;
 import java.util.Comparator;

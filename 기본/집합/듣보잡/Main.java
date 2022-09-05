@@ -1,4 +1,4 @@
-package 집합.듣보잡;
+package 기본.집합.듣보잡;
 
 import java.util.ArrayList;
 import java.util.Arrays;

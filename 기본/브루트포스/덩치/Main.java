@@ -1,4 +1,4 @@
-package 브루트포스.덩치;
+package 기본.브루트포스.덩치;
 
 import java.util.Scanner;
 

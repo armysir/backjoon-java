@@ -1,4 +1,4 @@
-package 집합.대칭차집합;
+package 기본.집합.대칭차집합;
 
 import java.util.HashMap;
 import java.util.Scanner;

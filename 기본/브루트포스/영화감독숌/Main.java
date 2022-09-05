@@ -1,4 +1,4 @@
-package 브루트포스.영화감독숌;
+package 기본.브루트포스.영화감독숌;
 
 import java.util.Scanner;
 

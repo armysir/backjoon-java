@@ -1,4 +1,4 @@
-package 브루트포스.분배합;
+package 기본.브루트포스.분배합;
 
 import java.util.Scanner;
 

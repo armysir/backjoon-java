@@ -1,4 +1,4 @@
-package 정렬.통계학;
+package 기본.정렬.통계학;
 import java.beans.BeanProperty;
 import java.util.*;
 

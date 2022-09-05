@@ -1,4 +1,4 @@
-package 기하.직각삼각형;
+package 기본.재귀함수.기하.직각삼각형;
 
 import java.util.Scanner;
 

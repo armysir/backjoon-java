@@ -1,4 +1,4 @@
-package 정렬.나이순정렬;
+package 기본.정렬.나이순정렬;
 
 import java.util.ArrayList;
 import java.util.Arrays;

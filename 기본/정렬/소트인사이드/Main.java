@@ -1,4 +1,4 @@
-package 정렬.소트인사이드;
+package 기본.정렬.소트인사이드;
 
 import java.util.*;
 

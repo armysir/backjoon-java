@@ -1,4 +1,4 @@
-package 집합.숫자카드;
+package 기본.집합.숫자카드;
 
 import java.util.HashMap;
 import java.util.Scanner;

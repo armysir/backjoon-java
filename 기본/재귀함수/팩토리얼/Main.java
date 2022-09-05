@@ -1,4 +1,4 @@
-package 재귀함수.팩토리얼;
+package 기본.재귀함수.팩토리얼;
 import java.util.*;
 public class Main 
 {

@@ -1,4 +1,4 @@
-package 재귀함수.하노이탑이동순서;
+package 기본.재귀함수.하노이탑이동순서;
 
 
     import java.util.Scanner;

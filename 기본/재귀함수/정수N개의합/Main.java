@@ -1,4 +1,4 @@
-package 재귀함수.정수N개의합;
+package 기본.재귀함수.정수N개의합;
 
 /**
  * Main

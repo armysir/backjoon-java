@@ -1,4 +1,4 @@
-package 기하.네번째점;
+package 기본.재귀함수.기하.네번째점;
 
 import java.util.Scanner;
 

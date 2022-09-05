@@ -1,4 +1,4 @@
-package 정렬.수정렬하기2;
+package 기본.정렬.수정렬하기2;
 
 
 import java.util.*;

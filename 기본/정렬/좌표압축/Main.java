@@ -1,4 +1,4 @@
-package 정렬.좌표압축;
+package 기본.정렬.좌표압축;
 
 import java.util.Arrays;
 import java.util.HashMap;

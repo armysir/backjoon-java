@@ -1,4 +1,4 @@
-package 정렬.단어정렬;
+package 기본.정렬.단어정렬;
 
 import java.util.Arrays;
 import java.util.Comparator;
