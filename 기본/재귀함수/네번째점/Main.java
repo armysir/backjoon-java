@@ -1,6 +1,7 @@
 package 기본.재귀함수.네번째점;
 
 import java.util.Scanner;
+import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
